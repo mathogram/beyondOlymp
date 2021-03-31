@@ -1,0 +1,2 @@
+Прямоугольник разбит на четыре маленьких  прямоугольника.  Площади трех из них известны: 3, 8, 13. Найдите площадь четвертого прямоугольника. 
+<p align="center"><img src="https://matol.nomomon.repl.co/http:&amp;&amp;matol.kz&amp;images&amp;19&amp;2007_7_2.jpg" height=" "></p>
