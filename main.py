@@ -16,14 +16,14 @@ def clean(str):
 
 
 for olymp in y:
-	if olymp["title"].find("Международная олимпиада 2020, Санкт-Петербург, Россия, 2020 год")+1:
+	if olymp["title"].find("Олимпиада Туймаада по математике. Младшая лига.")+1:
 		print(olymp["title"])
-		# year = olymp["title"].split(", ")[-1].split(" ")[0]
-		year = 2020
+		year = olymp["title"].split(" ")[-2]
 		# group = olymp["title"].split(" ")[7]
+		group = "junior"
 
 		for problem in range(len(olymp["problems"])):
-			file_path = "imo/"+ str(year) # +"/" + str(group)
+			file_path = "tuimada/"+ str(year) +"/" + str(group)
 
 			if not os.path.exists(file_path):
 				os.makedirs(file_path)
