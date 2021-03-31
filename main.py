@@ -16,9 +16,10 @@ def clean(str):
 
 
 for olymp in y:
-	if olymp["title"].find("Международная Математическая Oлимпиада")+1:
+	if olymp["title"].find("Международная олимпиада 2020, Санкт-Петербург, Россия, 2020 год")+1:
 		print(olymp["title"])
-		year = olymp["title"].split(", ")[-1].split(" ")[0]
+		# year = olymp["title"].split(", ")[-1].split(" ")[0]
+		year = 2020
 		# group = olymp["title"].split(" ")[7]
 
 		for problem in range(len(olymp["problems"])):
