@@ -1,3 +1,5 @@
+pdf файлы некоторых олимпиад, а так же код чтобы скачивать задачи с сайта можно найти [тут](https://github.com/mathogram/kz-olymps).
+
 рекомендую поставить это как katex options
 ```
 const options = {
