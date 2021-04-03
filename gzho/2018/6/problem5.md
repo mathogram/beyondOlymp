@@ -1,2 +1,2 @@
 На рисунке ниже можно найти девять прямоугольников. Известно, что у каждого из них и длина и ширина — целые числа. Сколько прямоугольников из этих девяти могут иметь нечетную площадь?
-<p align="center"><img src="https://matol.nomomon.repl.co/http:&&matol.kz&images&10&gzho2018-650-1.png" height="50"></p>
+<p align="center"><img src="https://matol.nomomon.repl.co/http:&amp;&amp;matol.kz&amp;images&amp;10&amp;gzho2018-650-1.png" height="50"></p>

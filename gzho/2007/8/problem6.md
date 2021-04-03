@@ -1,2 +1,2 @@
 Прямоугольник  разбит  на  четыре маленьких  прямоугольника $A,B,C,D$. Среди чисел 3, 4, 5, 6, 7, 9, 11, 18 какие-то четыре выражают площади прямоугольников $A,B,C,D$. Найдите эту четверку чисел. 
-<p align="center"><img src="https://matol.nomomon.repl.co/http:&&matol.kz&images&13&2007_8_6.jpg" height=" "></p>
+<p align="center"><img src="https://matol.nomomon.repl.co/http:&amp;&amp;matol.kz&amp;images&amp;13&amp;2007_8_6.jpg" height=" "></p>

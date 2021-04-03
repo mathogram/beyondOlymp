@@ -1,2 +1,2 @@
 Разрежьте фигуру, показанную на рисунке на две части по  линиям  сетки  так,  чтобы  из  полученных  частей можно было бы составить квадрат размером $8\times 8$.
-<p align="center"><img src="https://matol.nomomon.repl.co/http:&&matol.kz&images&19&2001_7_4.png" height=""></p>
+<p align="center"><img src="https://matol.nomomon.repl.co/http:&amp;&amp;matol.kz&amp;images&amp;19&amp;2001_7_4.png" height=""></p>

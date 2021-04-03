@@ -1,5 +1,5 @@
 В клетках доски $n \times n$ расставлены нули и единицы. 
 Во всех клетках левого столбца стоят единицы, и в каждой фигурке вида 
-<img src="https://matol.nomomon.repl.co/http:&&matol.kz&images&14&s2004_7.png" height="30">
+<img src="https://matol.nomomon.repl.co/http:&amp;&amp;matol.kz&amp;images&amp;14&amp;s2004_7.png" height="30">
 (состоящей из клетки и ее соседей слева и снизу) сумма чисел четна.
 Докажите, что в таблице нет двух одинаковых строк.
