@@ -1,2 +1,2 @@
 Во всех клетках таблицы $3\times 3$  первоначально записаны нули. Одним ходом разрешается прибавить ко всем четырем числам любого квадрата $2\times 2$  по  единице. Можно ли после нескольких ходов получить нарисованную таблицу?
-<p align="center"><img src="https://matol.nomomon.repl.co/http:&amp;&amp;matol.kz&amp;images&amp;19&amp;2007_8_1.jpg" height=""></p>
+<p align="center"><img src="http:&&matol.kz&images&19&2007_8_1.jpg" height=""></p>

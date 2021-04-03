@@ -8,7 +8,7 @@ for (dirpath, dirnames, filenames) in os.walk("."):
 def clean(arr):
 	output = []
 	for fileName in arr:
-		if(fileName.count("/") > 2 and fileName.count("/.") == 0):
+		if(fileName.count("/") > 2 and fileName.count("/.") == 0 and fileName.count(".png") == 0 and fileName.count(".jpg") == 0):
 			output.append(fileName)
 	return output
 
@@ -20,10 +20,12 @@ for path in listOfFiles:
 	if(text.find('<img src="https://matol.nomomon.repl.co/') + 1):
 		print(path)
 	fRead.close()
+	text = text.replace("&amp;", "&")
+	text = text.replace("https://matol.nomomon.repl.co/", "")
 
-	# fWrite = open(path[2:], "w")
-	# fWrite.write(text)
-	# fWrite.close()
+	fWrite = open(path[2:], "w")
+	fWrite.write(text)
+	fWrite.close()
 
 print("done!")
 

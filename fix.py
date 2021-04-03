@@ -20,7 +20,6 @@ for path in listOfFiles:
 	text = text.replace("&ge;", "\ge")
 	text = text.replace("&lt;", "<")
 	text = text.replace("&le;", "\le")
-	# text = text.replace("&amp;", "&")
 	text = text.replace("<i>", "*")
 	text = text.replace("</i>", "*")
 	text = text.replace("<strong>", "**")

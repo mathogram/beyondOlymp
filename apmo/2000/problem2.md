@@ -2,4 +2,4 @@
 <br/> (i)	суммы четырех чисел на каждой стороне треугольника равны;
 <br/> (ii)	суммы квадратов четырех чисел на каждой стороне треугольника равны.
 <br/> Найдите всевозможные варианты записей этих чисел.
- <p align="center"><img src="https://matol.nomomon.repl.co/http:&amp;&amp;matol.kz&amp;images&amp;17&amp;2000_2.jpg" height=""></p>
+ <p align="center"><img src="http:&&matol.kz&images&17&2000_2.jpg" height=""></p>
