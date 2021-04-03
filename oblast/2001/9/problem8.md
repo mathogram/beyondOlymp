@@ -1,3 +1,3 @@
 Клетка клетчатой доски $7\times 7$ называется $\textit{плохой}$, 
-если удалив ее оставшуюся часть нельзя будет замостить пятнадцатью фигурками вида <img src="https://matol.nomomon.repl.co/http:&amp;&amp;matol.kz&amp;images&amp;14&amp;obl_2001_10_7_1.jpg" height="20">
- и одной фигуркой вида <img src="https://matol.nomomon.repl.co/http:&amp;&amp;matol.kz&amp;images&amp;18&amp;obl_2001_10_7_2.jpg" height="30">. Укажите все $\textit{плохие}$ клетки.
+если удалив ее оставшуюся часть нельзя будет замостить пятнадцатью фигурками вида <img src="./obl_2001_10_7_1.jpg" height="20">
+ и одной фигуркой вида <img src="./obl_2001_10_7_2.jpg" height="30">. Укажите все $\textit{плохие}$ клетки.
