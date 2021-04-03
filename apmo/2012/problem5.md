@@ -2,5 +2,5 @@
 Докажите, что если действительные числа $a_1$, $a_2$, $\dots$, $a_n$  
 удовлетворяют равенству  $a_1^2 + a_2^2 + \dots + a_n^2 = n$, то выполняется неравенство:
 $$
-\sum\limits_{1 \leq i &lt; j \leq n} {\frac{1}{{n - {a_i}{a_j}}}}  \leq \frac{n}{2}.
+\sum\limits_{1 \leq i < j \leq n} {\frac{1}{{n - {a_i}{a_j}}}}  \leq \frac{n}{2}.
 $$

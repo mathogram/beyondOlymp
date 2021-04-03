@@ -1,2 +1,2 @@
 В прямоугольнике $ABCD$ отмечены точка $M$ — середина стороны $BC$, точка  $N$ — середина стороны $CD$, точка $K$ — точка пересечения отрезков $BN$ и $MD$ (см. рис.). Докажите, что $\angle MKB=\angle MAN$.
-<p align="center"><img src="https://matol.nomomon.repl.co/http:&amp;&amp;matol.kz&amp;images&amp;16&amp;2008_7_4.jpg" height=" "></p>
+<p align="center"><img src="https://matol.nomomon.repl.co/http:&&matol.kz&images&16&2008_7_4.jpg" height=" "></p>

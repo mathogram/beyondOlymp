@@ -2,4 +2,4 @@
 длина встречается ровно один раз) изображенную на рисунке бесконечную 
 во всех направлениях "кирпичную 
 стену"? (Проволоку можно сгибать; размер "кирпича" — $1\times 2$ ).
-<p align="center"><img src="https://matol.nomomon.repl.co/http:&amp;&amp;matol.kz&amp;images&amp;14&amp;s2000_3.png" height="100"></p>
+<p align="center"><img src="https://matol.nomomon.repl.co/http:&&matol.kz&images&14&s2000_3.png" height="100"></p>

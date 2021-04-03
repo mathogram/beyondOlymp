@@ -1,2 +1,2 @@
 Разрежьте  фигуру,  показанную на рисунке ниже, тремя прямыми линиями на четыре одинаковые части  и  сложите  из  них  треугольник.
-<p align="center"><img src="https://matol.nomomon.repl.co/http:&amp;&amp;matol.kz&amp;images&amp;10&amp;2007_7_6.jpg" height=" "></p>
+<p align="center"><img src="https://matol.nomomon.repl.co/http:&&matol.kz&images&10&2007_7_6.jpg" height=" "></p>

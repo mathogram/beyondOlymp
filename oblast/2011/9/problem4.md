@@ -3,9 +3,9 @@
 $$
            \left\{
            \begin{array}{rcl}
-            p^2-aq &amp; = &amp; -3, \\
-            q^2-br &amp; = &amp; -4, \\
-            r^2-cp &amp; = &amp; -5, \\
+            p^2-aq & = & -3, \\
+            q^2-br & = & -4, \\
+            r^2-cp & = & -5, \\
            \end{array}
            \right.
 $$

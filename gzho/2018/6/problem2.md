@@ -1,2 +1,2 @@
 На сколько частей можно разрезать фигуру на рисунке ниже так, чтобы все части были одинаковыми? Укажите всевозможные варианты. (Две фигурки считаются одинаковыми, если одна из них может быть получена из другой поворачиванием или (и) переворачиванием. Резать можно только по линиям сетки.)
-<p align="center"><img src="https://matol.nomomon.repl.co/http:&amp;&amp;matol.kz&amp;images&amp;18&amp;gzho2018-620-1.png" height="70"></p>
+<p align="center"><img src="https://matol.nomomon.repl.co/http:&&matol.kz&images&18&gzho2018-620-1.png" height="70"></p>

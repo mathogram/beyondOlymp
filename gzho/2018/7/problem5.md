@@ -1,2 +1,2 @@
 На рисунке ниже на двух параллельных прямых $a$ и $b$ отмечены точки $A$ и $B$. Известно, что угол 1 в два раза меньше угла 2, а угол 3 в два раза меньше угла 4. Докажите, что угол $ACB$ в два раза меньше угла $ADB$.  
-<p align="center"><img src="https://matol.nomomon.repl.co/http:&amp;&amp;matol.kz&amp;images&amp;15&amp;gzho2018-750-1.png" height="100"></p>
+<p align="center"><img src="https://matol.nomomon.repl.co/http:&&matol.kz&images&15&gzho2018-750-1.png" height="100"></p>

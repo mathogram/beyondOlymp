@@ -4,7 +4,7 @@ $a_1=1$ и для любого $n\geq2$
 $$a_n=
 \left\{
 \begin{array}{rcl}
-a_{n-1}-n,~ \mbox{если $a_{n-1}&gt;n,$}\\
+a_{n-1}-n,~ \mbox{если $a_{n-1}>n,$}\\
 a_{n-1}+n,~ \mbox{если $a_{n-1}\leq n.$}\\
 \end{array}
 \right.
